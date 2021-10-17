@@ -1,0 +1,87 @@
+h1 {
+    color:black;
+    font-size: 50px;
+}
+h3 {
+    color:#ff0099;
+    margin-top: 50px;
+    font-family: 'Courier New', Courier, monospace;
+ 
+}
+
+article{
+    width: 960px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.container {
+    background-color: #333333;
+    height: 65px;
+    margin: auto;
+    overflow: auto;
+    position: relative;    
+}
+
+.logo {
+position: absolute;
+padding-left: 19%;
+margin: auto;
+padding-top:13px;
+
+}
+
+.doboz-1 {
+    width: 960px;
+    margin: auto;
+    margin-top: 150px;
+    
+}
+body {
+    font: normal  18px 'Roboto';
+    line-height: 1.6em;
+    margin:0px;
+    padding:0px;
+    background-image: url("./assets/háttérkép.png")
+  }
+
+.nav-link {
+    color:#ff0099;
+    text-decoration: none;
+ }
+
+.nav-item{ 
+    font-size:16px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 250;
+    letter-spacing: 2px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 10px;
+    color: #333333;
+    display: inline;
+ }
+
+.lines {
+    font: normal  30px 'Arial';
+    text-align: center;
+    margin-top: 100px;
+    letter-spacing: 10px;
+
+}
+#def{
+    font: bolder  50px 'Roboto';
+    text-align: center;
+    margin-top: 100px;
+    letter-spacing: 10px;
+}
+.nav {
+    padding-right: 17%; 
+    float: right;
+}
+a:hover {
+    color: aliceblue;
+}
+

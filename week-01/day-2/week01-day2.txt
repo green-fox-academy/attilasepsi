@@ -1,0 +1,2 @@
+CSS stíluslapok használata
+A CSS-en a hangsúly. Ennek segítségével fogod formázni a weboldalaidat, hogy azok szebbek és felhasználóbarátabbak legyenek! (CSS, vagyis Cascading Style Sheets, magyarul stíluslapok)

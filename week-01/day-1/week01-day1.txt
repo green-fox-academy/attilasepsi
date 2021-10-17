@@ -1,0 +1,6 @@
+A számítógép, Parancssor, Internet, HTML
+
+A számítógépek működése.
+Az internet alapfogalmai.
+A parancssoros felhasználói felület (CLI). Elsőre ijesztőnek tűnhet, de később sokat fogod használni, így mi tananyagot és gyakorlófeladatokat biztosítunk, hogy ezek feldolgozása után hatékonyan tudd használni ezt a felületet.
+A HTML, ami a legtöbb weboldal felépítésének egyik alappillére.
