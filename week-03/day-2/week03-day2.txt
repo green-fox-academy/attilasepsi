@@ -1,0 +1,5 @@
+Adatstruktúrák 1. rész
+
+Megismerkedünk a Java String függvényeivel valamint egy új adatstruktúrával aminek a neve: ArrayList.
+
+Győződj meg róla, hogy befejezted a rendezési feladatot, ha esetleg valami még nem világos, nézd újra a videókat.

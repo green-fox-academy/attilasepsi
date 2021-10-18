@@ -1,0 +1,2 @@
+Adatstruktúrák 2. rész
+Megismerkedünk a Java String függvényeivel valamint egy új adatstruktúrával aminek a neve: ArrayList.
