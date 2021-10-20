@@ -13,6 +13,6 @@ public class TwoNumbers {
         // Írasd ki egész számként a 22 osztva 13-mal művelet eredményét
         System.out.println(22 / 13);
         // Írasd ki 22-őt osztva 13-mal művelet osztási maradékát.
-        System.out.println(22. % 13);
+        System.out.println(22 % 13);
     }
 }
