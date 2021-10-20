@@ -5,8 +5,8 @@ public class DefineBasicInfo {
         // Hozz létre pár dolgot változóként és utána írasd ki az értékeiket:
 
         // - A neved karakterláncként (string)
-                String name = "Attila Sepsi";
-                System.out.println("Name: " + name);
+        String name = "Attila Sepsi";
+        System.out.println("Name: " + name);
         // - Korod egész számként (integer)
         int myage = 40;
         System.out.println("Age: " + myage);
@@ -15,6 +15,6 @@ public class DefineBasicInfo {
         System.out.println("Height: " + height);
         // - Házas vagy-e logikai értékként (boolean)
         boolean married = false;
-        System.out.println("Married: "+ married);
+        System.out.println("Married: " + married);
     }
 }
