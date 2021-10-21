@@ -11,12 +11,20 @@ public class CodingHours {
 // Írd ki, hogy a félév hány százalékát tölti a hallgató kódolással
 // ha az átlagos heti munkaidő 52 óra
 
-        int Hours = 6;
-        int Days = 5;
-        int Weeks = 17;
-        int WeeklyHours = 52;
-        int CodingTime = (Hours * Days * Weeks);
+        int codingHours = 6;
+        int workDays = 5;
+        int weeksPerHalfYear = 17;
+        int daysNumberOfWeek = 7;
+        int hoursOfDay = 24;
+        int codingTime = (codingHours * workDays * weeksPerHalfYear);
+        System.out.println("Egy átlagos Green Fox hallgató " + codingTime + " órát kódol egy fél év alatt.");
 
-        System.out.println ("Egy átlagos Green Fox hallgató " + CodingTime + " órát kódol egy fél év alatt." );
+        int totalHoursOfHalfYear = (daysNumberOfWeek * hoursOfDay * weeksPerHalfYear);
+        int totalWorkingHours = (52 * 17);
+        double percentage = ((double) totalWorkingHours / (double) totalHoursOfHalfYear) * 100;
+        System.out.printf("A félév " + ("%.2f"), percentage);
+        System.out.print("%");
+        System.out.print(" -át tölti a hallgató kódolással.");
+
     }
 }
