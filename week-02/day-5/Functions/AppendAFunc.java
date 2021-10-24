@@ -1,7 +1,5 @@
 package com.greenfoxacademy.Functions;
 
-import sun.reflect.generics.tree.ReturnType;
-
 public class AppendAFunc {
     private static Object String;
 
@@ -15,10 +13,10 @@ public class AppendAFunc {
 // - Írasd ki a visszatérési értékét a `appendAFunc(typo)` függvénynek.
 
         String typo = "Chinchill";
-        appendAFunc(typo);
+        System.out.println(appendAFunc(typo));
     }
 
-    public static void appendAFunc(String typo) {
-        System.out.println(typo + 'a');
+    public static String appendAFunc(String typo) {
+        return typo + "a";
     }
 }
